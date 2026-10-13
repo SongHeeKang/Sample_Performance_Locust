@@ -59,7 +59,7 @@ class MyUser(HttpUser):
 
 ### 1. Locust 부하 설정
 
-<img src="https://github.com/user-attachments/assets/24a5aeaa-585f-4615-9689-924c0ed95f74" alt="Locust 부하 설정 화면" width="440">
+<img src="docs/screenshots/01-locust-load-settings.png" alt="Locust 부하 설정 화면" width="440">
 
 Locust Web UI에서 부하 조건을 설정한 뒤 테스트를 시작합니다.
 
@@ -69,7 +69,7 @@ Locust Web UI에서 부하 조건을 설정한 뒤 테스트를 시작합니다.
 
 ### 2. Locust 테스트 결과
 
-<img src="https://github.com/user-attachments/assets/98526818-98a6-4c49-8992-14fdec9d1b12" alt="Locust 테스트 결과 차트" width="490">
+<img src="docs/screenshots/02-locust-result-chart.png" alt="Locust 테스트 결과 차트" width="490">
 
 Locust가 실시간으로 보여 주는 클라이언트 쪽 성능 지표입니다.
 
@@ -79,7 +79,7 @@ Locust가 실시간으로 보여 주는 클라이언트 쪽 성능 지표입니�
 
 ### 3. APM 모니터링 (WhaTap)
 
-<img src="https://github.com/user-attachments/assets/deedfcb5-ae0e-4e20-bba7-141af78a02d3" alt="WhaTap APM 대시보드" width="500">
+<img src="docs/screenshots/03-whatap-apm-dashboard.png" alt="WhaTap APM 대시보드" width="500">
 
 부하가 걸리는 동안 애플리케이션과 서버 상태를 APM 대시보드로 확인했습니다.
 
@@ -89,7 +89,7 @@ Locust가 실시간으로 보여 주는 클라이언트 쪽 성능 지표입니�
 
 ### 4. 서버 리소스 모니터링 (Grafana)
 
-<img src="https://github.com/user-attachments/assets/17368b92-2de3-4e32-93d7-afe75f4896cf" alt="Grafana 서버 리소스 대시보드" width="480">
+<img src="docs/screenshots/04-grafana-server-dashboard.png" alt="Grafana 서버 리소스 대시보드" width="480">
 
 Grafana 대시보드로 테스트 전후를 포함한 긴 시간 동안의 서버 리소스 추이를 확인했습니다.
 
