@@ -28,6 +28,8 @@
 ```
 Sample_Performance_Locust/
 ├── README.md
+├── images/             # Locust 수행 시 필요한 테스트 이미지 저장 폴더 (이미지는 저장소에서 제외)
+│   └── README.md
 └── scripts/
     └── locustfile.py   # Locust 부하 테스트 시나리오 (엔드포인트는 /api-01로 익명화)
 ```

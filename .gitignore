@@ -1,7 +1,8 @@
 .DS_Store
 /.idea/
 
-images/
+images/*
+!images/README.md
 __pycache__/
 *.html
 Grafana.png
