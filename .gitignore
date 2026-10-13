@@ -1,0 +1,10 @@
+.DS_Store
+/.idea/
+
+images/
+__pycache__/
+*.html
+Grafana.png
+Locust_Performance.png
+TPS.png
+Whatap.png
